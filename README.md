@@ -5,5 +5,5 @@ The Password Generator is used to create a random password using a set of variab
 emackenziesmith@gmail.com
 GitHub: emackenziesmith
 
-![alttext] (./assets.pass-gen.png)
+![alt text](./assets/pass-gen.png "screenshot of working code")
 
